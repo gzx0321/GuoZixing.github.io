@@ -19,13 +19,11 @@ Research experience
 ======
 * Research Assistant, Fall 2022, Spring 2022 and 2023
   * Boston University
-  * Duties includes: Updates and improvements to template
   * Supervisor: Prof. Robert King
 
 * Research Assistant, Spring and Summer 2019
   * Boston University
- # * Duties included: Merging pull requests
- # * Supervisor: Professor Hub
+
 
 Work Experience
 ======
